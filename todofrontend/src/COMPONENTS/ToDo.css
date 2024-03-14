@@ -1,0 +1,53 @@
+.main {
+  margin: 100px auto;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  width: 400px;
+  border-radius: 20px;
+  background-color: #f5cdff;
+  box-shadow: 0 7px 15px 0 rgba(0, 0, 0, 0.13), 0 1px 4px 0 rgba(0, 0, 0, 0.11);
+  font-family: Arial, Helvetica, sans-serif;
+}
+Form {
+  padding: 20px;
+}
+
+.editicon {
+  width: 15px;
+}
+.editiconbtn {
+  background-color: #f5cdff;
+  border: none;
+}
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.input button {
+  height: 40px;
+  background-color: white;
+  border: none;
+  margin-left: 50px;
+  color: rgb(117, 116, 116);
+  border-radius: 20px;
+}
+.input button:hover {
+  background-color: white;
+  color: rgb(117, 116, 116);
+}
+
+.addedit {
+  border-radius: 20px;
+}
+.list,
+.completedList {
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: rgb(72, 71, 71);
+}
+.heading {
+  font-size: 15px;
+  font-weight: 600;
+}
